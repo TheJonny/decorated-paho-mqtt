@@ -1,3 +1,7 @@
+python3-decorated-paho-mqtt (1.1.1) unstable; urgency=medium
+  * fixed bug with wrong matching of subscription patterns to callbacks
+ -- Jonathan Krebs <jonny@git2026.bruckbu.de>  Tue, 17 Mar 2026 12:00:00 +0000
+
 python3-decorated-paho-mqtt (1.0.5) unstable; urgency=medium
 
   * Initial packaging
